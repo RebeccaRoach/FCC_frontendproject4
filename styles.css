@@ -1,0 +1,97 @@
+@media only screen and (max-width: 600px) {
+  #navbar {background-color: #c73d67;}
+  #wht {color: #197b9f;}
+}
+ 
+#wht {
+  font-style: italic;
+  font-size: 1.8em;
+}
+#recipetitle {
+  font-size: 1.8em;
+}
+
+#Reviews > p {
+  font-style: italic;
+  padding: 20px;
+}
+
+#navbar > header {
+  font-size: 1.36em;
+}
+
+nav {
+  background-color: #197b9f;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 15em;
+  height: 100%;
+  
+  
+}
+
+.nav-link {
+  padding: 10px;
+  color: white;
+  display: block;
+}
+
+main {
+  margin-left: 250px;
+}
+
+.intro {
+  display: inline;
+  padding: 10px;
+}
+
+main, nav {
+font-family: 'Questrial', sans-serif;
+font-family: 'Nanum Myeongjo', serif;
+}
+
+main, header {
+  padding: 10px;
+}
+
+img {
+  max-width: 72vw;
+  max-height: 38vw;
+  margin: 20px 20px 20px 0px;
+}
+
+header {
+  color: #c73d67;
+  padding: 5px;
+  font-size: 1.4em;
+}
+
+section {
+  padding-bottom: 0.7em;
+}
+
+code {
+  color: #4a4a4a;
+  font-size: 1.2em;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {color: #c73d67;}
+
+.funtext {
+  margin: 10px;
+  padding: 20px;
+  background-color: lightgrey;
+  text-align: center;
+  border-radius: 5px;
+}
+
+ol {
+  font-size: 1.15em;
+  color: grey;
+}
